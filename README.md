@@ -13,4 +13,6 @@
 # how i use this application :
 - open cmd command line
 - go to the path file sending mail 
-- type this command to run the file (java -jar Mail sendig.jar)
+- type this command to run the file (java -jar Mail_bombing.jar)
+
+![](image2.PNG)
